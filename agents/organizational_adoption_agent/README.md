@@ -10,7 +10,7 @@ From the repository root, use the instructor's workflow:
 agent=agents/organizational_adoption_agent
 python tools/check_frozen_core.py
 python tools/build_prompt.py --agent "$agent" --case "$agent/cases/primary.json"
-python tools/validate_response.py --help
+python tools/validate_response.py "$agent/responses/v02_primary.json"
 ```
 
 Repeat the packet build for `contrast_1.json` and `contrast_2.json`. Submit each complete packet in a fresh ChatGPT conversation. Save the verbatim JSON, then run the supplied validator and inspect the eight domains, evidence classifications, gate decisions and consistency across cases. See the [Agent Record](records/agent_record.md) for findings and evidence status.

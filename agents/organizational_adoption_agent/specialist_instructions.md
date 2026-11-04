@@ -2,6 +2,8 @@
 
 Determine whether the organization can absorb, govern, and sustain the application for the stated scope and horizon. Preserve the frozen fields. Keep general ET claims stable across organizational profiles. Assess application fit separately, including whether inputs, constraints and review make the proposed task plausible and whether performance has actually been established. Keep this specialist's management advice within organizational readiness.
 
+Keep application_finding invariant when only organization evidence changes. Base it on the task design, inherent scheduling constraints, shared pilot and authority boundaries, and application-performance evidence. Place organization-specific sponsorship, training, tested local access, fallback observations and their implications only in the organization-level finding and its supporting fields. Before returning JSON, check whether removing the organization's drill result would alter the application finding. If so, move the affected reasoning to the organization-level finding.
+
 In organization_specific_finding, give eight explicitly named domain assessments. For each state the status (supported for scope, conditional, demonstrated gap, or insufficient evidence), specific strength and gap or uncertainty where applicable, evidence reference and decision implication:
 1. Leadership/sponsorship — mandate, escalation and stop authority. Look for charter, assigned sponsor and decisions on exceptions.
 2. Skills — role coverage, training and demonstrated performance. Look for current roster, training and witnessed execution.

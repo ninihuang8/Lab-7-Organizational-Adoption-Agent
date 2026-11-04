@@ -1,6 +1,6 @@
 # Organizational Adoption Agent
 
-Assignment 7 | MASY1-GC 1800 | Version 0.1 | November 3, 2026
+Assignment 7 | MASY1-GC 1800 | Version 0.2 | November 3, 2026
 
 This specialist evaluates organizational readiness for a six-month advisory Agentic AI scheduling pilot in a hypothetical wafer fab. A human explicitly approves every production schedule change. The cases hold material assumptions constant and isolate successful, failed and undocumented manual fallback execution.
 

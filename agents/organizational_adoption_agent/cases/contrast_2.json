@@ -1,14 +1,14 @@
 {
-  "emerging_technology": "REPLACE",
-  "intended_application": "REPLACE",
-  "organization": "REPLACE",
-  "industry_sector": "REPLACE",
-  "business_need": "REPLACE",
-  "users_stakeholders": "REPLACE",
-  "adoption_posture": "REPLACE",
-  "capabilities_constraints": "REPLACE",
-  "risk_consequence_context": "REPLACE",
-  "management_question": "REPLACE",
-  "time_horizon": "REPLACE",
-  "additional_context": ""
+  "emerging_technology": "Agentic AI",
+  "intended_application": "Wafer-fab production scheduling and disruption-recovery recommendations for a single designated pilot area. Advisory only. Existing human-controlled release workflow is authoritative.",
+  "organization": "Hypothetical large wafer manufacturer. All organizational observations, approvals and roles in this case are scenario stipulations.",
+  "industry_sector": "Semiconductor wafer fabrication",
+  "business_need": "Develop reviewable recovery options after equipment disruptions while preserving lot constraints and scheduling continuity.",
+  "users_stakeholders": "Participating day and night shift schedulers and shift supervisors, Fab Scheduling Manager, Fab Operations Director, MES/ERP owner, change lead and control assurance lead.",
+  "adoption_posture": "Moderate / fast-follower",
+  "capabilities_constraints": "Hypothetical shared profile. The Fab Operations Director sponsors the pilot and owns start/resume authorization. The Fab Scheduling Manager owns operations, may pause recommendations, and maintains the roster and procedure. Day and night schedulers and shift supervisors completed role-based training and have an approved manual fallback procedure. The MES/ERP owner has tested read-only agent access and separate approved manual access to current scheduling state. Staffing, backfill, drills and MES support are allocated for the pilot. The change lead maintains a challenge and feedback channel and conducts shift debriefs. Participation and adoption outcomes are unmeasured. The control assurance lead reviews approval and incident records. No measured model performance or realized value is supplied.",
+  "risk_consequence_context": "Hypothetical shared boundaries. Wrong recommendations can disrupt lot sequencing and throughput. The agent has no write authority. An authorized shift supervisor must explicitly approve every production schedule change before human release, including manual recovery. Lot holds and approved operating constraints remain binding. If approved manual continuation is unavailable, use the established safe hold and escalation process. No expansion, autonomous dispatch or changes to safety controls.",
+  "management_question": "Can the organization begin and sustain the proposed bounded live-production pilot, and what evidence or action must precede authorization?",
+  "time_horizon": "Six-month bounded live-production pilot",
+  "additional_context": "Hypothetical organization-approved fallback acceptance standard, shared across cases. During a representative equipment disruption with AI recommendations unavailable and approved MES/ERP manual access available, participating day and night shift schedulers and supervisors must demonstrate takeover and cross-shift handover. Schedulers must retrieve and reconcile authoritative lot, hold and equipment state, produce a compliant recovery plan using approved manual tools, transfer open exceptions and pending decisions to the receiving shift, and obtain acknowledgment. The authorized supervisor must explicitly approve each proposed production change before any release. The exercise observer must retain a trace of the sequence, handover, approvals and outcome against the fab-approved operational recovery window. The exercise must cover both shifts and roles within the live scope. No numerical window is stipulated. A material miss is a failed execution. A missing or inconclusive execution trace leaves capability undetermined. Hypothetical evidence inventory contains approved procedures and completed training. No usable witnessed execution trace is supplied for the handover or remaining critical steps on either shift. Whether execution occurred or succeeded is undetermined."
 }

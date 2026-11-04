@@ -9,7 +9,7 @@
 | Agent / version | Organizational Adoption Agent · 0.2 |
 | Date | November 3, 2026 |
 | Repository / branch | [Lab-7-Organizational-Adoption-Agent](https://github.com/ninihuang8/Lab-7-Organizational-Adoption-Agent) · `main` |
-| Tested snapshot | `a4f92d29c5d69139a4609b36208bb5c7a54f00cd` (local content snapshot before publication) |
+| Tested snapshot | `a4f92d29c5d69139a4609b36208bb5c7a54f00cd` (v0.2 implementation and preserved retest outputs) |
 | Frozen scaffold | MASY1800_ET_Agent_Scaffold_v1_0 |
 
 ## B. Specialist purpose and context
@@ -57,6 +57,10 @@ All cases share a hypothetical organization-approved fallback standard. With rec
 | Operating ownership | All preserve the Director’s authorization and the Scheduling Manager’s operational role. Coverage and sustained oversight require confirmation. |
 
 **Evidence, contradictions and remaining limits.** The raw outputs label organizational stipulations as hypothetical and separate decision inferences and missing evidence. Approval, hold and no-agent-write boundaries are consistent across decisions. A missed acknowledgment can coexist with effective safe containment. A successful drill in the primary supports conditional eligibility within the scenario, while the recommendation headline withholds actual authorization pending verification. The v0.2 insufficient case says the recovery window must be established. The case stipulates an approved window, so the needed action is to retrieve and verify it, without assuming it does not exist or imposing a numerical threshold. The primary retest and contrasts still occasionally mention fallback in the application finding to mark its exclusion. They do not rely on the outcome as fit evidence. Shared-domain label drift and verbose output limit automated comparison. Treat substantive findings and provenance as authoritative for team review, and abstain when scope, evidence, ownership or approval is unresolved.
+
+**Reviewed interpretation for submission and team use.** Apply the same status when profiles share the same evidence and scope. For infrastructure/data, use **conditional** across all three profiles. The scenario stipulates access testing, while continuity and current access records still require review. For culture/change, use **insufficient evidence of effective adoption** across all three profiles. The feedback mechanism exists in the scenario, while its use and effect remain unmeasured. Neither variation in the raw labels changes the live-use decision.
+
+For Contrast 2, the Fab Scheduling Manager should retrieve the existing approved recovery standard and verify its applicability to both shifts, all covered roles and the disruption scenario. Compare a current witnessed trace against that standard. Withhold an affirmative readiness judgment if the standard or execution trace cannot be verified. These corrections apply to the reviewed interpretation. The v0.2 specialist and its original outputs are retained as tested evidence. A future execution may reproduce the same wording or label drift.
 
 ## E. Independent judgment and team handoff
 
